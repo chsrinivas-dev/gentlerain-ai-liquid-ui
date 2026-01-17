@@ -35,4 +35,5 @@ This is a non-commercial educational UI clone created for learning and
 portfolio purposes.
 
 ## 🚀 Live Demo
-(Will be added after deployment)
+https://chsrinias-dev.github.io/gentlerain-ai-liquid-ui/
+
